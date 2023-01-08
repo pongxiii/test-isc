@@ -1,0 +1,26 @@
+img {
+    display: block;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 10px;
+    width: 50px;
+}
+
+.place :hover{
+    cursor: pointer;
+    transition: 0.3s;
+    opacity:0.7;
+}
+
+hr{
+    width:78px;
+    border-top: 1px  #C4D3E9;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 0;
+    margin-left: 20px;
+    font-size: 10px;
+    font-weight: bold;
+}

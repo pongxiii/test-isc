@@ -1,0 +1,54 @@
+.bgHeader{
+    position: fixed;
+    background-color: #134B8A;
+    height:50px;
+    width:100%;
+}
+
+.notify{
+    position: fixed;
+    top: 15px;
+    right: 150px;
+    height: 20px;
+    width: auto;
+    color: #FFFFFF;
+    cursor: pointer;
+    
+}
+
+.nav-bar{
+    display: flex;
+    position: relative;
+}
+
+.account{
+    cursor: pointer;
+}
+
+
+.user-box{
+    position: absolute;
+    top: 15px;
+    right: 120px;
+    height: 21px;
+    width: auto;
+    color: #FFFFFF;
+
+}
+
+h3{
+    position: fixed;
+    top: 4px;
+    right:90px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.arrow{
+    position: fixed;
+    top: 23px;
+    height: 12px;
+    right: 70px;
+    color: #FFFFFF;
+}
